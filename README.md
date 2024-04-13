@@ -34,6 +34,7 @@ The program will kill any running instances of qBittorrent, note the port being 
 It not only removes the need for you to copy and paste the port number being forwarded from the PIA client to the qBittorrent client but it also automatically launches qBittorrent so all you have to do is ensure you are connected to a PIA server and run the script which saves you many precious mouse clicks!
 
 ### Known issues (DEPRECATED)
+
 ***The most recent update has removed the issue listed below.***
 I am aware that a user will have to keep identifying where the qBittorrent.exe is stored on each use of the updater.
 I will be seeking a method to allow the script to ask for the information once then store it for future use eliminating the need for further user input outside the initial directory confirmation.
