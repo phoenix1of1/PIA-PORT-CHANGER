@@ -63,7 +63,8 @@ Setport:
 Return
 
 updatePORT:
-    Runwait, Taskkill /IM qBit* /F
+    ; Modified line to hide the command prompt
+Run, Taskkill /IM qBit* /F, , hide
     Sleep, 300
     IniWrite, %portPIA_CLEAN%, %expandedAppData%\qBittorrent\qBittorrent.ini, BitTorrent, Session\Port
     Sleep, 300
