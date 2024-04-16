@@ -17,7 +17,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Path storage via reg entry. by @phoenix1of1
 - Markdown correction by @phoenix1of1
 - Added CHANGELOG.md by @phoenix1of1
+- CHANGELOG.md corrections by @phoenix1of1
+- Removed older version .exe by @phoenix1of1
+- Tagged branch. by @phoenix1of1
 
-## New Contributors
+#### Fixed
 
-- @phoenix1of1 made their first contribution
+- Command Prompt appearing whilst running script. by @phoenix1of1
