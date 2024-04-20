@@ -1,4 +1,13 @@
-# PIA-PORT-CHANGER
+# NOTICE
+
+I have changed the sleep/wake cycle of the script to 100 hours to stop annoying terminals from popping up.
+I am going to migrate the project to Python as working with AHK has been akin to cleaning my backside with glass encrusted sandpaper.
+The script still does what it does but I feel at this point, I can use Python to improve the project further.
+I will include a link to the new repo once it is in a workable state.
+
+Thank you!
+
+## PIA-PORT-CHANGER
 
 Enuring you never have to manually set the PIA Forwarded Port in qBittorrent ever again!
 
